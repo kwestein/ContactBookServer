@@ -1,57 +1,50 @@
 {"contacts":[
-
-    {
-        "Name": "John Smith",
-        "id":"48",
-        "birthday":"Sun Dec 02 2012",
-        "phoneNumbers":[
-            {
-                "value":"1-929-212-2369"
-            }
-        ],
-        "emailAddresses":[
-            {
-                "value":"jane_smith@example.com"
-            },
-            {
-                "value":"the_smiths@example.com"
-            }
-        ]
-    },
         {
-        "name":"Kirsten Westeinde",
-        "id":"14",
-        "birthday":"Sun Dec 01 2012",
-        "phoneNumbers":[
-            {
-                "value":"1-862-641-7387"
-            },
-            {
-                "value":"1-820-232-8029"
-            }
-        ],
-        "emailAddresses":[
-            {
-                "value":"kw@example.com"
-            }
-        ]
-    },
-    {    
-        "Name": "Jane Smith",
-        "id":"8",
-        "birthday":"Sun Dec 02 2011",
-        "phoneNumbers":[
-            {
-                "value":"1-929-212-2369"
-            }
-        ],
-        "emailAddresses":[
-            {
-                "value":"jane_smith@example.com"
-            },
-            {
-                "value":"the_smiths@example.com"
-            }
-        ]
-    }
-]}
+            "name":"Jane Smith",
+            "id":"48",
+            "birthday":"Sun Dec 02 2012",
+            "phoneNumbers":[
+                {
+                    "value":"1-929-212-2369"
+                }
+            ],
+            "emailAddresses":[
+                {
+                    "value":"jane_smith@example.com"
+                },
+                {
+                    "value":"the_smiths@example.com"
+                }
+            ]
+        },
+        {
+            "name":"Kirsten Westeinde",
+            "id":"14",
+            "birthday":"Sun Dec 01 2012",
+            "phoneNumbers":[
+                {"value":"1-862-641-7387"},
+                {"value":"1-820-232-8029"}
+            ],
+            "emailAddresses":[
+                {
+                    "value":"kw@example.com"
+                }
+            ]
+        },
+        {
+            "name":"Joe Low",
+            "id":"8",
+            "birthday":"Sun Dec 02 2011",
+            "phoneNumbers":[
+                {
+                    "value":"1-800-323-4567"
+                }
+            ],
+            "emailAddresses":[
+                {
+                    "value":"joe_low@example.com"
+                }
+            ]
+        }
+    ]
+}
