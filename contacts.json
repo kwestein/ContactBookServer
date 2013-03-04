@@ -1,26 +1,9 @@
 {"contacts":[
-        {
-            "name":"Jane Smith",
-            "id":"48",
-            "birthday":"Sun Dec 02 2012",
-            "phoneNumbers":[
-                {
-                    "value":"1-929-212-2369"
-                }
-            ],
-            "emailAddresses":[
-                {
-                    "value":"jane_smith@example.com"
-                },
-                {
-                    "value":"the_smiths@example.com"
-                }
-            ]
-        },
+
         {
             "name":"Kirsten Westeinde",
             "id":"14",
-            "birthday":"Sun Dec 01 2012",
+            "birthday":"Dec 03 1992",
             "phoneNumbers":[
                 {"value":"1-862-641-7387"},
                 {"value":"1-820-232-8029"}
@@ -32,19 +15,26 @@
             ]
         },
         {
-            "name":"Joe Low",
-            "id":"8",
-            "birthday":"Sun Dec 02 2011",
-            "phoneNumbers":[
-                {
-                    "value":"1-800-323-4567"
-                }
-            ],
+            "name":"Smeagol",
+            "id":"666",
+            "birthday":"Jan 01 1900",
+            "phoneNumbers":[],
             "emailAddresses":[
                 {
-                    "value":"joe_low@example.com"
+                    "value":"my.precious@lotr.com"
                 }
             ]
+        },
+                {
+            "name":"Sirius Black",
+            "id":"19",
+            "birthday":"Jun 18 1959",
+            "phoneNumbers":[
+                {
+                    "value":"0987654332"
+                }
+            ],
+            "emailAddresses":[]
         }
     ]
 }
